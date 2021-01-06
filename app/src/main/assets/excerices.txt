@@ -1,0 +1,363 @@
+{
+	"steps":[
+		{
+			"excerise_name":"Warrior",
+			"instruction":"This pose helps increasing the balance,stetches the thighs,groins,torso,and shoulders.it builds full-body strength,flexibility,and coordination.",
+			"image":"warrior",
+			"id":"1"
+		},
+		{
+			"excerise_name":"Sleeping Vishnu",
+			"instruction":"Sleeping Vishnu Pose stretches the hamstrings.hips,claves,pelvis,and groin muscles,it tones the abdomen,increase hip mobility,and can help reduce low back pain.This pose improves balance and coordination,while also developing greater focus and conecentration.",
+			"image":"sleeping_vishnu",
+			"id":"2"
+		},
+		{
+			"excerise_name":"Tree",
+			"instruction":"Tree pose stretches the thinghs,groins,torso,and shoulders.it builds strength int the ankles and calves,and tones the abdominal muscales.the pose also help to remedy flat feet and is therapeuic for sciatica.",
+			"image":"tree",
+			"id":"3"
+		},
+		{
+
+			"excerise_name":"Swaying Palm Tree",
+			"instruction":"It helps to expand the chest and improve breating.This pose also strengthens the legs during stretching while creating a sense of balance.it tones the organs in the abdomen and improves digestion.",
+			"image":"swaying_palm_tree",
+			"id":"4"
+		},
+		{
+        	"excerise_name":"Locust Pose",
+        	"instruction":"Begin lying on your stomach,lift your arms,head,and chest off the floor,then lift your legs up.hold the pose and keep your breath smooth.",
+        	"image":"locust_pose",
+        	"id":"5"
+        },
+		{
+			"excerise_name":"Warrior",
+			"instruction":"Strenghens the legs,opens the hips and chest ad stretches the arms and legs.it develops concentration,balance and groundedness.This pose improves circulation and respiration and energizes the entire body.",
+			"image":"warrior2",
+			"id":"6"
+		},
+		{
+			"excerise_name":"Lobster",
+			"instruction":"Lobster pose is a beginner level yoga pose that is performed in standing position.Lobster Pose additionally involves stretch,Strength.",
+			"image":"lobster",
+			"id":"7"
+		},
+		{
+			"excerise_name":"Rainbow",
+			"instruction":"Rainbow pose offers a great opportunity to carefully stretch out the neck,upper back,shoulder and arm muscles.",
+			"image":"raindow",
+			"id":"8"
+		},
+		{
+        	"excerise_name":"Downward Facing Dog",
+        	"instruction":"start on your hands and knees(table pose),raise your body up and hold the pose and breathe.if you are new to yoga place a folded blanket under the wrists to protect them from pressure.",
+        	"image":"downward_facing_dog",
+        	"id":"9"
+        },
+		{
+			"excerise_name":"Baby",
+			"instruction":"Baby pose helps to strech the hips,thight,and ankles while reducing strees and fatigue.it gently relaxes the muscles on the front of the body while softly and passively stretching the muscles of the back torso.",
+			"image":"baby",
+			"id":"10"
+		},
+		{
+			"excerise_name":"Hero",
+			"instruction":"Hero pose stretches and increses flexibility in the knees,ankles,and thighs,it teaches practitioners internal thighs rotation,and it also help to reduce tigthness in the legs.Additionally,the pose Strengthnens the arches of the feet.",
+			"image":"hero",
+			"id":"11"
+		},
+		{
+			"excerise_name":"Star",
+			"instruction":"Star pose stretches and lengthens the body in all directions at once.it aligns the spine correctly,which helps to improve posture and reduce back and shoulder pain.",
+			"image":"star",
+			"id":"12"
+		},
+		{
+        	"excerise_name":"Boat Pose",
+        	"instruction":"sit straight,then start to lean back slightly,lift your legs up to a 45-degree angle.keep your arms parallel to the floor,do not round your back.hold the backs of your thighs with your hands if that helps you keep a straight spine,focus on your breath.",
+        	"image":"boat_pose",
+        	"id":"13"
+        },
+		{
+			"excerise_name":"Corpse",
+			"instruction":"Cropose pose is benefial for those suffering from neurological problem,asthma,constipation,diabetes,indigestion.This posture brings a deep,meditative state of rest,which may help in the repair of tissues and cells,and in releasing strees.",
+			"image":"corpse",
+			"id":"14"
+		},
+		{
+			"excerise_name":"Easy",
+			"instruction":"This pose help in recovery energy,Peace of mind and relaxation.",
+			"image":"easy",
+			"id":"15"
+		},
+		{
+			"excerise_name":"Mountain",
+			"instruction":"This pose is to increase height.Stimulates nervous system.improves body posture and balance.regulate the menstrual cycle in women.Tone your buttocks and abdomen.Strenthens your ankles,knees,thighs,arms,and legs,improves the function of the respiratory and digestive system.",
+			"image":"mountain",
+			"id":"16"
+		},
+		{
+			"excerise_name":"Staff",
+			"instruction":"is an excellent yogic position of sterngthening the back,correcting the hunched posture.improving the alignment of the body,and increasing the practitioners ability to work perfectly.",
+			"image":"staff",
+			"id":"17"
+		},
+		{
+			"excerise_name":"Upward Salute",
+			"instruction":"Stretches the sides of the body,spine,shoulders,armpits,and belly.it tones the thighs,improves digestation,and helps to relieve anxiety and fatigue.it also help to create space in the chest and lungs,which is threapeutica for asthma and congestion.",
+			"image":"upward_salute",
+			"id":"18"
+		},
+		{
+			"excerise_name":"Salutation Seal",
+			"instruction":"Opens the Heart,this pose also has a the efect of calming of the minds activity.reducing stress and anxiety and creating flexible wrists,hands,fingers and arms.",
+			"image":"salutation_seal",
+			"id":"19"
+		},
+		{
+			"excerise_name":"Triangle",
+			"instruction":"A deep stretch for the hamstrings,groins,and hips.Also opens the chest and shoulders.it helps relieve lower back pain,stress,and sluggish digestion.This pose strengthens the muscles in the rhighs,hips and back,while toning the knees and ankles.",
+			"image":"triangle",
+			"id":"20"
+		},
+		{
+			"excerise_name":"Extended Hand To Toe",
+			"instruction":"stretches hamstrings and hips.stretches adductors.Strengthens back and arm muscles.improves sense of balance.Calms the ming and improves focus.",
+			"image":"extened_hand_to_toe",
+			"id":"21"
+		},
+		{
+			"excerise_name":"Happy Baby",
+			"instruction":"Happy Baby Pose is particularly important for the hamstrings,groins,and inner thighs.The pose stretches these areas and prevents the risk of a hamstring tear,groin strain,and inner thigh injury.Lengthens the Hamstrings,Stretched hips are beneficial for the spine an back",
+			"image":"happy_baby",
+			"id":"22"
+		},
+		{
+			"excerise_name":"Upward Plank",
+			"instruction":"This pose simultaneously strengthens and stretches your shoulders.it strengthnens the arms,upper back,legs,glutes,and wrists;and stretches the chest,abdomen,tops of the feet,and ankles.this pose builds core strength while challenging and improving balace,as well.",
+			"image":"upward_plank",
+			"id":"23"
+		},
+		{
+			"excerise_name":"Upward Dog",
+			"instruction":"This pose stretches the chest and spine,while strengtheing the wrists,arms,and shoulders.By strengthening and opening the upper body and cheast,it improves posture and can be therapeutic for asthma.",
+			"image":"upward_dog",
+			"id":"24"
+		},
+		{
+			"excerise_name":"Warrior",
+			"instruction":"This pose helps in sretches the thighs,groins,torso,and shoulders.it develops conecentration,balance and groundedness.",
+			"image":"warrior3",
+			"id":"25"
+		},
+		{
+			"excerise_name":"Camel",
+			"instruction":"It improves spinal flexibility,while also strengthening the back muscles and improving posture.This pose creates space in the chest and lungs,increasing breathing capacity abd helping to relieve respiratory ailments.it also stimulates the kidneys,which improvers digestion.",
+			"image":"camel",
+			"id":"26"
+		},
+		{
+        	"excerise_name":"Cobra Pose",
+        	"instruction":"lie on your stomach, place your palms flat on the floor under your shoulders,lift your chest up off the floor,breathing easily.",
+        	"image":"cobra_pose",
+        	"id":"27"
+        },
+		{
+			"excerise_name":"Stanging Forward Bend",
+			"instruction":"This pose helps to calm the brain and helps relieve stress and mild depression.Stimulates the liver and kidneys.Stretches the hmstrings,calves,and hips.Strengthens the thighs and knees.improves digestion.Helps relieve the symptoms of menopause.Reduces fatigue and anxiety.Relieves headache and insomnia.",
+			"image":"standing_forward_bend",
+			"id":"28"
+		},
+		{
+			"excerise_name":"Shoulder Stand",
+			"instruction":"Stretches the shoulders and neck.Tones the legs ad buttocks.improvers digestion.calms the brain and help relieve stress and mild depression.stimulates the thyroid and prostate glands and abdominal orgns.it helps relieve swollen legs.",
+			"image":"shoulder_stand",
+			"id":"29"
+		},
+		{
+			"excerise_name":"Lotus",
+			"instruction":"is an extremely powerful pose,especially for women,it is a wonderful example of a pose that connects the ming,body,and spirit-once of the ultimate goals of yoga.",
+			"image":"lotus",
+			"id":"30"
+		},
+		{
+			"excerise_name":"King Dancer",
+			"instruction":"it builds full-body strength,flexibility,and coordination.it opens the shoulders,chest,and hips,as it stretches and strengthens the thighs,ankles,and abdomen.This pose devlops greater flexibility in your spine,shoulders,and hamstrings.",
+			"image":"king_dancer",
+			"id":"31"
+		},
+		{
+			"excerise_name":"Full Boat",
+			"instruction":"The Full Boat Pose engage the core muscles by strengthing the abdominals and muscles of the plevis and lower back.",
+			"image":"full_boat",
+			"id":"32"
+		},
+		{
+			"excerise_name":"Wheel",
+			"instruction":"Stimulates the thyroid and pituitary glands,increses energy and counteracts depression.This pose also gives strength to your legs,abdomen,buttocks,spine,shoulder blandes,glutes,hamstrings,lower back,wrists,and arms,it cures infertility,asthma and osteoporosis.",
+			"image":"wheel",
+			"id":"33"
+		},
+		{
+			"excerise_name":"Chair",
+			"instruction":"Strengthens the thighs and ankles,while toing the shoulders,butt,hips,and back.it stretches the Schilles tendons and shins,and is know to be therapeutic for flat feet.it also stretches the shoulders and opens the chest.",
+			"image":"chair",
+			"id":"34"
+		},
+		{
+        	"excerise_name":"Warrior Pose Right",
+        	"instruction":"stand with your feet together and your arms at your sides,take a big step forward,bend your front knee and raise your arms above your head and face your plams toward each other,hold the pose and focus on breating deeply.",
+        	"image":"warrior_pose",
+        	"id":"35"
+
+        },
+		{
+			"excerise_name":"Floor Bow",
+			"instruction":"Sretchnes the entire front of the body,while simultaneousy strengtening every muscle in the back.This improves posture and spinal flexibility.Additionally,the pose helps to open the chest,abdomen,quadriceps,ankles,groins,hip flexors,and throat.",
+			"image":"floor_bow",
+			"id":"36"
+		},
+		{
+			"excerise_name":"Wood Chopper",
+			"instruction":"This pose helps open,activate,and balance.it also helps the musceles.Arms and Shoulders,Lower back,lower Back,Middle back,Biceps and Triceps,Biceps and Triceps,chest,hips and knees.",
+			"image":"woodchopper",
+			"id":"37"
+		},
+		{
+			"excerise_name":"Half Spinal Twist",
+			"instruction":"It increase flexibility in the spine,calms the ming,releaxe the nervous system,improves digestion,and cleanses the ineternal organs.The straight leg adaptation of the traditional bent lower leg pose is safer for beginners and for those who have knee problems.",
+			"image":"half_spinal_twist",
+			"id":"38"
+		},
+		{
+			"excerise_name":"Horse Face",
+			"instruction":"Horse face pose promotes good cirulation throughout the body,and the intertwined arms help to create flexibility in the upper body.The pose also helps strengthen the bones in the lower body,and alleviates minor asymmetries,particularly the legs and hips.",
+			"image":"horse_face",
+			"id":"39"
+		},
+		{
+			"excerise_name":"Plow",
+			"instruction":"Plow Pose is an inverted yoga posture that stretches the spine and shoulders while rejuvenat-ing the nervous system.Because the pose calms and relaxes the nerves,brain,and heart.",
+			"image":"plow",
+			"id":"40"
+		},
+		{
+			"excerise_name":"Crow",
+			"instruction":"Strengthnes the upper arms,forearms,and wrists.Addiionally.it tones and srengthens the abdom-inal muscles and the organs of the torso while stretching the upper back and groins.This poase also improves balace and full-body coordination.",
+			"image":"crow",
+			"id":"41"
+		},
+		{
+			"excerise_name":"Locust",
+			"instruction":"Strengthens and increases flexibility throughout the entire back of the body,including the spine,legs,buttocks,and all of the muscles surrounding your ribs and upper torso.Working the upper back muscles improves posture and helps relieve stress and fatigue caused by slouching forward.",
+			"image":"locust",
+			"id":"42"
+		},
+		{
+        	"excerise_name":"Seated Forward Bend",
+        	"instruction":"sit on the floor with your legs stretched out in front you,raise both arms above your head then slowly lower the torso towards the legs,hold the pose and breath.",
+        	"image":"seated_forward_bend",
+        	"id":"43"
+        },
+		{
+			"excerise_name":"Extended Side",
+			"instruction":"Relieves stiffness in the shoulders and back.it provides a deep stretch to the groins and hamstrings,and it also improves stamina.This pose strengthnens the legs,knees and ankles,while also stretching and toning the abdominal muscles.",
+			"image":"extended_side",
+			"id":"44"
+		},
+		{
+			"excerise_name":"Intense Side Stretch",
+			"instruction":"The pose also strengthnes the legs,improves balance,and stimulates the abdominal organs,which can assist with digestion.",
+			"image":"intense_side_stretch",
+			"id":"45"
+		},
+		{
+			"excerise_name":"Partner Boat",
+			"instruction":"Youga also stretches,strengthes,and tones your muscales,and if you do yoga poses with another person,the pjysical and emotional benefits are amazing.when you do Boat pose on your own,ir totally works your abs,but when you do it with a partner,it changes the stretch and works your hamstrings",
+			"image":"partner_boat",
+			"id":"46"
+		},
+		{
+			"excerise_name":"Three Legged",
+			"instruction":"Quitets the mind.Strengthens the arms.Stretches the hamstrings and hip flexors.",
+			"image":"three_legged",
+			"id":"47"
+		},
+		{
+			"excerise_name":"Monkey",
+			"instruction":"Stretches and strengthen groin region,hamstrings and thigh muscles.it stimulates the digestive and reproductive organs,by boosting their functioning,Monkey pose makes hips flexible of practice daily.",
+			"image":"monkey",
+			"id":"48"
+		},
+		{
+        	"excerise_name":"Warrior Pose Left",
+        	"instruction":"stand with your feet together and your arms at your sides,take a big step forward,bend your front knee and raise your arms above your head and face your plams toward each other,hold the pose and focus on breating deeply.",
+        	"image":"warrior_pose_left",
+        	"id":"49"
+        },
+		{
+			"excerise_name":"Giraffe",
+			"instruction":"It fosters focus and balance,strengthening legs,ankles,feet and arms.it also strenghnens abdominal muscles while increasing flexibility of the spine and shoulders and expanding the chest.",
+			"image":"giraffe",
+			"id":"50"
+		},
+		{
+			"excerise_name":"Flamingo",
+			"instruction":"Flamingo pose is considered a warm-up yoga pose to prepare the body for more intense yoga poses/yoga flow.Flamingo pose benefits the following muscles and hence can be included in yoga sequences with the corresponding muscle(s) focus:Arms and Shoulders.",
+			"image":"flamingo",
+			"id":"51"
+		},
+		{
+			"excerise_name":"Dog",
+			"instruction":"Calms the brain and helps relieve stress and mild depression.Energizes the body.Stretches the shoulders,hamstrings,calves,arches,and hands.strengthnens the arms and legs.Help relieve the stmptoms of menopause.Relieves menstrual discomfort when done with head supported.Helps prevent osteoporosis.",
+			"image":"dog",
+			"id":"52"
+		},
+		{
+			"excerise_name":"Cat",
+			"instruction":"Relieve stress from menstrual cramps,lower back pain,and sciatica.Cat/Cow pose increase flexibility of the neck,shoulders,and spine.The movement also stretches the muscles of the hips,back,abdomen,chest and lungs.Cat/Cow pose stretch geld at its peak release tension of the upper back and neck.",
+			"image":"cat",
+			"id":"53"
+		},
+		{
+			"excerise_name":"Cow",
+			"instruction":"Relieve stress from menstrual cramps,lower back pain,and sciatica.Cow/Cat pose increase elxibility of the neck,shoulders,and spine.The movment also stretches the muscles of the hips,back,sbdomen,chest,and lungs.Cow/Cat pose stretch held at its peak releases tension of the upper back and neck.",
+			"image":"cow",
+			"id":"54"
+		},
+		{
+			"excerise_name":"Snake",
+			"instruction":"It also help to open the lings,which is therapeutic for asthma.This pose also stimulates the abdom-inal organs,improving digestion.An energizing backbend.it reduces stress and fatigue.it also firms and tones the shoulders,abdomen,and buttocks,and helps to ease the pain of sciatica.",
+			"image":"snake",
+			"id":"55"
+		},
+		{
+        	"excerise_name":"Standing Forward Fold",
+        	"instruction":"Stand straight with arms stretched above your head,then bend forward and down towards the legs.place your palms or fingers on the floor,hold the pose and keep your breath smooth.",
+        	"image":"standing_forward_flod",
+        	"id":"56"
+
+        },
+		{
+			"excerise_name":"Lion",
+			"instruction":"is a yoga pose that exercies the muscles in the face and throat.it is believed to have many physical benefits,such as relieveing tension and stimulating circulation.it also ca reduce stress and anxitety,like many yoga poses.",
+			"image":"lion",
+			"id":"57"
+		},
+		{
+			"excerise_name":"Butterfly",
+			"instruction":"Benefites the expectant mother and the unborn baby.it improves blood circulation.strengthens the pelvic floor muscles,enhances the release of happy hormones,and help in smooth,safe,and healthy delivery.",
+			"image":"butterfly",
+			"id":"58"
+		},
+		{
+			"excerise_name":"Turtle",
+			"instruction":"The flexibilty of the hips,shoulders,neck and the entire back is every assential to enjoy this pose while also gaining the maximum benefits.An advance level pose,and hence should de done with caution and with duidance.Turtle pose helps boost energy in the body and hence can be included in flow yoga sequences.",
+			"image":"turtle",
+			"id":"59"
+		}
+
+
+	]
+}

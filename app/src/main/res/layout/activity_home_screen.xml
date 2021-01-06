@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeScreen"
+    android:background="@drawable/a2_grad"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/back_arrow"
+            android:padding="15dp"/>
+
+
+    </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@drawable/whitehomescreen"
+            android:layout_margin="10dp"
+            android:backgroundTintMode="src_atop">
+
+            <ImageView
+                android:layout_width="173dp"
+                android:layout_height="128dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="38dp"
+                android:layout_marginBottom="19dp"
+                android:background="@drawable/white_do_background" />
+
+            <ImageView
+                android:layout_width="78dp"
+                android:layout_height="65dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:padding="15dp"
+                android:src="@mipmap/ic_new_reminder" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="205dp"
+                android:layout_marginTop="111dp"
+                android:layout_marginEnd="31dp"
+                android:layout_marginBottom="-68dp"
+                android:text="Good Morning"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="215dp"
+                android:layout_marginTop="151dp"
+                android:layout_marginEnd="61dp"
+                android:text="Arpita"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </RelativeLayout>
+//first
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@drawable/whitecard"
+            android:outlineAmbientShadowColor="@color/black">
+
+
+
+            <TextView
+                android:layout_width="154dp"
+                android:layout_height="42dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="51dp"
+                android:layout_marginRight="10dp"
+                android:text="Easy Yoga"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="148dp"
+                android:layout_height="30dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="80dp"
+                android:text="Follow the steps"
+                android:textAlignment="textStart"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="32dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="110dp"
+                android:layout_marginEnd="42dp"
+                android:text="10 poses"
+                android:textAlignment="textStart"
+                android:textSize="15dp" />
+
+        </RelativeLayout>
+
+
+       <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="203dp"
+            android:layout_marginTop="-130dp"
+            android:padding="10dp"
+            >
+
+
+            <ImageView
+                android:layout_width="211dp"
+                android:layout_height="187dp"
+                android:layout_marginLeft="2dp"
+                android:src="@mipmap/logo"
+                android:elevation="20dp"/>
+        </RelativeLayout>
+
+        //second
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@drawable/whitecard"
+            android:outlineAmbientShadowColor="@color/black">
+
+
+
+            <TextView
+                android:layout_width="154dp"
+                android:layout_height="42dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="51dp"
+                android:layout_marginRight="10dp"
+                android:text="Easy Yoga"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="148dp"
+                android:layout_height="30dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="80dp"
+                android:text="Follow the steps"
+                android:textAlignment="textStart"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="32dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="110dp"
+                android:layout_marginEnd="42dp"
+                android:text="10 poses"
+                android:textAlignment="textStart"
+                android:textSize="15dp" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="203dp"
+            android:layout_marginTop="-130dp"
+            android:padding="10dp"
+            >
+
+
+            <ImageView
+                android:layout_width="211dp"
+                android:layout_height="187dp"
+                android:layout_marginLeft="2dp"
+                android:src="@mipmap/logo"
+                android:elevation="20dp"/>
+        </RelativeLayout>
+
+
+
+
+        //third
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@drawable/whitecard"
+            android:outlineAmbientShadowColor="@color/black">
+
+
+
+            <TextView
+                android:layout_width="154dp"
+                android:layout_height="42dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="51dp"
+                android:layout_marginRight="10dp"
+                android:text="Easy Yoga"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="148dp"
+                android:layout_height="30dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="80dp"
+                android:text="Follow the steps"
+                android:textAlignment="textStart"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="32dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="203dp"
+                android:layout_marginTop="110dp"
+                android:layout_marginEnd="42dp"
+                android:text="10 poses"
+                android:textAlignment="textStart"
+                android:textSize="15dp" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="203dp"
+            android:layout_marginTop="-130dp"
+            android:padding="10dp"
+            >
+
+
+            <ImageView
+                android:layout_width="211dp"
+                android:layout_height="187dp"
+                android:layout_marginLeft="2dp"
+                android:src="@mipmap/logo"
+                android:elevation="20dp"/>
+        </RelativeLayout>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

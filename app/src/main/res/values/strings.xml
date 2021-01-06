@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Daily Kids Yoga</string>
+
+
+    <string name="ADMOB_Unit_ID" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+
+    <string name="google_baner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="g_inr">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="g_native">ca-app-pub-3940256099942544/2247696110</string>
+
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+
+    <string name="calendar">Calendar</string>
+    <string name="character_counter_content_description">%1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="next">Go to next</string>
+    <string name="previous">Go to previous</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+
+    <string name="motivation_notifications">Daily Notification</string>
+    <string name="motivation_notification_description">Notify me for stay motivated</string>
+    <string name="remider_heading">Time of Reminder</string>
+    <string name="reminder_text">Set your daily Workout Timer</string>
+
+    <!--    <string name="age_group">Choose age group</string>-->
+    <!--    <string-array name="age_group_array">-->
+    <!--        <item>5-6years</item>-->
+    <!--        <item>7-8years</item>-->
+    <!--        <item>9-10years</item>-->
+    <!--    </string-array>-->
+
+</resources>
